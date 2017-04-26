@@ -11,7 +11,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("Test Success");
+		System.out.println("Test Success 1");
 	}
 
 }
